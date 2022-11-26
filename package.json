@@ -1,0 +1,20 @@
+{
+  "name": "phase-1-week-1-code-challenge",
+  "version": "1.0.0",
+  "description": "Phase 1, week 1 code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sainamercy/phase-1-week-1-code-challenge.git"
+  },
+  "author": "Mercy Saina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sainamercy/phase-1-week-1-code-challenge/issues"
+  },
+  "homepage": "https://github.com/sainamercy/phase-1-week-1-code-challenge#readme"
+}
