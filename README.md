@@ -5,6 +5,9 @@
 * Each challenge has its own file where the main functions have been exported and compiled in one file - `index.js`.
 * All challenges work well. The functions were structured in a way to minimize bugs as much as possible.
 * Parcel dependency was used for build
+The project has been hosted in `vercel`. Link to the project:
+`https://phase-1-week-1-code-challenge.vercel.app/`t
+
 
 # Challege-1 Student Grade generator
 
