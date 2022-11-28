@@ -31,7 +31,7 @@
 * The `NSSF` deduction calculation assumes a rate of `6%` through out
 * Minimum deductable income for `NSSF` is set to `ksh. 3000`
 * The `payee` calculation incorporated `pension relief` and checked for conditions to match as much as possible as the internet sources
-*A main Function `netSalaryCalculator` was created to merge all the functions
+* A main Function `netSalaryCalculator` was created to merge all the functions
 
 
 ### Challenges faced
