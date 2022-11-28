@@ -5,7 +5,7 @@
 * Each challenge has its own file where the main functions have been exported and compiled in one file - `index.js`.
 * All challenges work well. The functions were structured in a way to minimize bugs as much as possible.
 * Parcel dependency was used for build
-* A nav-bar has been created to navigate to specific cahallenges
+* A nav-bar has been created to navigate to specific challenges
 * The project has been hosted in `vercel`.
 [Link to the project](https://phase-1-week-1-code-challenge.vercel.app/)
 
@@ -34,10 +34,10 @@
 *A main Function `netSalaryCalculator` was created to merge all the functions
 
 
-# Challenges faced
+### Challenges faced
 
-* Time was a challenge. I tried to test as much skills as possible including css
-* Refactoring code was also a challenge. There is a lot of code repeatition the I wish to improve in future
+* Time was a challenge. However, This has come as a lesson to plan well
+* Refactoring code was also a challenge. There is a lot of code repeatition. I hope to improve on that in future
 
 
 
