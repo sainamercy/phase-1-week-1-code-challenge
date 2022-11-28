@@ -1,4 +1,4 @@
-### phase-1-week-1-code-challenge
+# phase-1-week-1-code-challenge
 
 * All the challenges were solved using JavaScript.
 * A user interface has been created to test all the challenges.
@@ -6,22 +6,22 @@
 * All challenges work well. The functions were structured in a way to minimize bugs as much as possible.
 * Parcel dependency was used for build
 The project has been hosted in `vercel`. Link to the project:
-`https://phase-1-week-1-code-challenge.vercel.app/`t
+[Link to the project](https://phase-1-week-1-code-challenge.vercel.app/)
 
 
-# Challege-1 Student Grade generator
+### Challege-1 Student Grade generator
 
 * One main function was created to solve the challenge
 * `if else statement` was used to check for various conditions
 * A range of `0 - 100` was set at the begining of the function to avoid grading invalid scores
 
-# Challenge-2 Speed Detector
+### Challenge-2 Speed Detector
 
 * One main function was created to solve the challenge
 * `if else statement` was used to check for various conditions
 * A speed range of upto `400km/hr` was set to avoid unrealistic speed
 
-# Challenge-3 Net Salary Calculator
+### Challenge-3 Net Salary Calculator
 
 * The function had several conditions to check. Therefore, a couple of helper functions were created.
 * `if else statement` was used to check for various conditions
