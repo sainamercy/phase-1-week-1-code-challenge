@@ -38,6 +38,7 @@
 
 * Time was a challenge. However, This has come as a lesson to plan well
 * Refactoring code was also a challenge. There is a lot of code repeatition. I hope to improve on that in future
+* Commenting on solution was also another challenge. I hope with guide from mentors, I can improve on it.
 
 
 
