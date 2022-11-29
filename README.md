@@ -1,15 +1,74 @@
 # phase-1-week-1-code-challenge
 
+## Description
+This is a code challenge meant to test on skills acquired upto the current stage of the `Software-Engineering` course work
+
+
+
+# Running The Live Hosted Application 
+On your browser [open this link](https://phase-1-week-1-code-challenge.vercel.app/) to access the live web application
+
+* The web page has a navigation section at the top containing the links to the challenges.
+* Click on the specific challenge you want to go to.
+* Each challenge has an input field with a placeholder to describe what value to enter.
+* After inputing the value, click on the button below the input field to display the results.
+
+# Running Application on Local Server
+
+## Getting Started
+In order for you to use the content on this repo ensure you have the following:
+
+* A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
+*  nodejs 9.0+
+
+
+## Installation
+
+To use this repo on your machine requires some simple steps
+
+### Alternative One
+
+* Open a terminal / command line interface on your computer
+* Clone the repo by using the following:
+
+        git clone https://github.com/sainamercy/phase-1-week-1-code-challenge 
+        to create a copy on your local machine.
+* Change directory to the repo folder:
+
+        cd l1-js-dom
+
+* (Optional) Open it in ``Visual Studio Code``
+
+        code .
+
+* (Alternate Option) Open it in any editor of your choice.
+
+### Alternative Two
+
+* On the top right corner of this page there is a button labelled ``Fork``.
+* Click on that button to fork the repo to your own account.
+* Take on the process in ``Alternative One`` above.
+* Remember to replace your username when cloning.
+
+        git clone https://github.com/your-username-here/phase-1-week-1-code-challenge
+
+
+## Running the application
+
+To run the application, you can use the following steps to run the app.
+
+* Install required dependencies from npm
+
+      `npm install`
+* Run the application
+
+      `npm start`
+
+# Brief Challenge Description
+
 * All the challenges were solved using JavaScript.
 * A user interface has been created to test all the challenges.
 * Each challenge has its own file where the main functions have been exported and compiled in one file - `index.js`.
-* All challenges work well. The functions were structured in a way to minimize bugs as much as possible.
-* Parcel dependency was used for build
-* A nav-bar has been created to navigate to specific challenges
-* The project has been hosted in `vercel`.
-[Link to the project](https://phase-1-week-1-code-challenge.vercel.app/)
-
-
 
 ### Challege-1 Student Grade generator
 
@@ -34,15 +93,12 @@
 * A main Function `netSalaryCalculator` was created to merge all the functions
 
 
-### Challenges faced
+# Authors
+This project was contributed to by:
+- [Mercy Saina](https://github.com/sainamercy)
 
-* Time was a challenge. However, This has come as a lesson to plan well
-* Refactoring code was also a challenge. There is a lot of code repeatition. I hope to improve on that in future
-* Commenting on solution was also another challenge. I hope with guide from mentors, I can improve on it.
-
-
-
-***Coding is Fun***
+# License
+The project is licensed `ISC`.
 
 
 
