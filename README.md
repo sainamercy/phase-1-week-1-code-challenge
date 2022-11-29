@@ -6,7 +6,7 @@ This is a code challenge meant to test on skills acquired upto the current stage
 
 
 # Running The Live Hosted Application 
-On your browser [open this link](https://phase-1-week-1-code-challenge.vercel.app/) to access the live web application
+On your browser [open this link](https://phase-1-week-1-code-challenge.vercel.app/){:target="_blank" rel="noopener"} to access the live web application
 
 * The web page has a navigation section at the top containing the links to the challenges.
 * Click on the specific challenge you want to go to.
