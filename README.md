@@ -59,10 +59,11 @@ To run the application, you can use the following steps to run the app.
 
 * Install required dependencies from npm
 
-      `npm install`
+      npm install
+
 * Run the application
 
-      `npm start`
+      npm start
 
 # Brief Challenge Description
 
