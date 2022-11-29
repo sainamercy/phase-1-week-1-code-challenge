@@ -29,10 +29,10 @@ To use this repo on your machine requires some simple steps
 ### Alternative One
 
 * Open a terminal / command line interface on your computer
-* Clone the repo by using the following:
+* Clone the repo by using the following to create a copy on your local machine:
 
         git clone https://github.com/sainamercy/phase-1-week-1-code-challenge 
-        to create a copy on your local machine.
+       
 * Change directory to the repo folder:
 
         cd l1-js-dom
