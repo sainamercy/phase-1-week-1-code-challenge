@@ -1,8 +1,11 @@
 # phase-1-week-1-code-challenge
 
 ## Description
-This is a code challenge meant to test on skills acquired upto the current stage of the `Software-Engineering` course work
+This is an application comprised of:
 
+- Student Grades Generator
+- Speed Limit Detector
+- Net Salary Calculator
 
 
 # Running The Live Hosted Application 
@@ -99,7 +102,7 @@ This project was contributed to by:
 - [Mercy Saina](https://github.com/sainamercy)
 
 # License
-The project is licensed `ISC`.
+The project is licensed by `ISC`.
 
 
 
