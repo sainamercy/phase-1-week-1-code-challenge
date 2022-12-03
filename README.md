@@ -35,7 +35,7 @@ To use this repo on your machine requires some simple steps
        
 * Change directory to the repo folder:
 
-        cd l1-js-dom
+        cd phase-1-week-1-code-challenge 
 
 * (Optional) Open it in ``Visual Studio Code``
 
